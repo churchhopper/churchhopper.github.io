@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Find the right church</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+</head>
+<body>
+
+<header>
+    <div class="bg-light">
+        <div class="container">
+            <h1 class="text-center">
+                <span class="display-3">Welcome to</span>
+                <br><span class="display-1"><span class="text-secondary">church</span><span class="text-info">hopper</span>.com</span>
+                <br><small  class="">Making it easier to find the right church.</small>
+            </h1>
+        </div>
+    </div>
+</header>
+
+<section class="container">
+    <h2 class="">Where have all the good churches gone?</h2>
+    <p><q>Church hoppers</q> get a bad rap in Christian circles. They're treated like groupies that follow whatever band they are into at the time then move on to the next cool show that pops up. It's fair to say that some folks have a hard time with commitment, but it isn't necessarily their fault. Most of them just aren't getting whatever it is they're looking for but keep trying new churches out.</p>
+    <div class="row">
+        <figure class="col col-sm-4 offset-4">
+            <div class="embed-responsive embed-responsive-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/69Baq3YKllE?start=30&end=49&rel=0" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <figcaption>Church Hop by <cite>Ray Boltz</cite></figcaption>
+        </figure>
+    </div>
+    <p>
+        Who in their right mind would go through the energy of visiting a church, investing their time and emotion into that church, and contributing to that church then just drop it all to go on to something more exciting? What if the problem is the unmet expectations they had for each of these churches? Even worse, what if they've visited so many churches and been let down so many times they give up? Sounds like dating, right? The single adult who decides to settle for whatever okay prospect comes along or gives up on dating altogether.
+    </p>
+    <p>
+        Let's roll with the analogy. Is the problem the expectations or the churches? Every church can't be that bad. A person shouldn't feel forced to feel at home on Sunday morning. They shouldn't need to convince the whole family
+    </p>
+</section>
+
+<section>
+    <h2 class="">Breaking up is hard to do</h2>
+</section>
+
+<section>
+    <h2 class="">I have no clue where to begin!</h2>
+</section>
+
+<section>
+    <h2 class="">Feeling lost in the crowd</h2>
+</section>
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="/js/jquery-3.2.1.min.js"></script>
+<script src="/js/popper.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-7525863868150300",
+        enable_page_level_ads: true
+    });
+</script>
+</body>
+</html>
