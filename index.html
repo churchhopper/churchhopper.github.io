@@ -13,7 +13,14 @@
 </head>
 <body>
 <div id="app">
-    <div class="is-size-1 has-text-centered">Hello</div>
+    <div class="has-text-centered">
+        <p class="is-size-1">Hello</p>
+        <p>What ZIP code are you searching for?</p>
+        <div class="field">
+            <input type="zip" v-model="zip">
+        </div>
+        <p class="is-size-2">{{ zip }}</p>
+    </div>
 </div>
 </body>
 </html>
